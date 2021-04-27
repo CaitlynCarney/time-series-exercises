@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 
+
 # ______________________________________________________________________________
 def update_store_data(df):
     '''This function takes the complete_data for stores
